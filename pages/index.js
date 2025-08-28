@@ -149,11 +149,11 @@ const About = () => (
       />
       <div>
         <p className="text-lg text-neutral-700 dark:text-neutral-300 mb-4">
-          At Shoppers Stop, I led initiatives in inventory optimization,
-          merchandising, and in-store experience — applying product thinking
-          long before my formal PM role. Today, I apply the same rigor to
-          SaaS/AI products like Groww, Salesken AI, and Loop AI.
-        </p>
+  Across 8+ years of experience, I’ve led initiatives in retail operations, customer experience, and product case studies — consistently applying product thinking long before stepping into a formal PM role. From optimizing inventory flows and building efficient processes to writing detailed PRDs and conducting user research, my focus has always been on solving high-impact problems.
+  <br /><br />
+  Today, as a Product Manager, I bring this blend of operational depth and structured product craft to SaaS/AI products in fintech and B2B, ensuring outcomes that are both user-centric and data-driven.
+</p>
+
         <ul className="grid gap-2 text-neutral-700 dark:text-neutral-300">
           <li>
             <strong>Experience:</strong> 8+ Years
